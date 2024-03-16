@@ -24,6 +24,12 @@
         "direction": null
     },
     " ": {
+        "button": 6,
+        "toggle": false,
+        "axis": -1,
+        "direction": null
+    },
+    "Shift": {
         "button": 7,
         "toggle": false,
         "axis": -1,
