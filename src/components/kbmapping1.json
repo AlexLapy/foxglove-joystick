@@ -29,6 +29,12 @@
         "axis": -1,
         "direction": null
     },
+    "Shift": {
+        "button": 7,
+        "toggle": false,
+        "axis": -1,
+        "direction": null
+    },
     "w": {
         "axis": 1,
         "direction": "+",
@@ -42,13 +48,13 @@
         "toggle": null
     },
     "a": {
-        "axis": 0,
+        "axis": 2,
         "direction": "+",
         "button": -1,
         "toggle": null
     },
     "d": {
-        "axis": 0,
+        "axis": 2,
         "direction": "-",
         "button": -1,
         "toggle": null
