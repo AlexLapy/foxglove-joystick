@@ -24,7 +24,7 @@
         "direction": null
     },
     " ": {
-        "button": 6,
+        "button": 7,
         "toggle": false,
         "axis": -1,
         "direction": null
@@ -42,13 +42,13 @@
         "toggle": null
     },
     "a": {
-        "axis": 0,
+        "axis": 2,
         "direction": "+",
         "button": -1,
         "toggle": null
     },
     "d": {
-        "axis": 0,
+        "axis": 2,
         "direction": "-",
         "button": -1,
         "toggle": null
