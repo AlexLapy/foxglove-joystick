@@ -1,18 +1,6 @@
 {
-    "l": {
-        "button": 1,
-        "toggle": false,
-        "axis": -1,
-        "direction": null
-    },
     "k": {
         "button": 0,
-        "toggle": false,
-        "axis": -1,
-        "direction": null
-    },
-    "j": {
-        "button": 3,
         "toggle": false,
         "axis": -1,
         "direction": null
@@ -29,11 +17,23 @@
         "axis": -1,
         "direction": null
     },
-    "Shift": {
+    "v": {
         "button": 7,
         "toggle": false,
         "axis": -1,
         "direction": null
+    },
+    "l": {
+        "axis": 0,
+        "direction": "+",
+        "button": -1,
+        "toggle": null
+    },
+    "j": {
+        "axis": 0,
+        "direction": "-",
+        "button": -1,
+        "toggle": null
     },
     "w": {
         "axis": 1,
