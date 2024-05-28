@@ -23,13 +23,13 @@
         "axis": -1,
         "direction": null
     },
-    "l": {
+    "j": {
         "axis": 0,
         "direction": "+",
         "button": -1,
         "toggle": null
     },
-    "j": {
+    "l": {
         "axis": 0,
         "direction": "-",
         "button": -1,
@@ -48,13 +48,13 @@
         "toggle": null
     },
     "a": {
-        "axis": 2,
+        "axis": 0,
         "direction": "+",
         "button": -1,
         "toggle": null
     },
     "d": {
-        "axis": 2,
+        "axis": 0,
         "direction": "-",
         "button": -1,
         "toggle": null
